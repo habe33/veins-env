@@ -25,6 +25,8 @@ $ omentpp
 $ sumo
 $ sumo-gui
 ```
+### Commands
+Feel free to edit commands.sh to run your simulations
 ## Requirements
-Docker
-X11
+* Docker
+* X11
